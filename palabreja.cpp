@@ -49,7 +49,7 @@ int main(){
     std::string dictString = readInputText("spanish.lst");
 
     // Define the vector with the letters and the center letter
-    std::vector<char> targetLetters = {'v', 'l', 'e', 'd', 'i', 'a', 'c'};
+    std::vector<char> targetLetters = {'t', 'a', 'p', 'n', 'd', 'o', 'l'};
     char centerLetter = targetLetters[0];
 
     // Number of possible words
